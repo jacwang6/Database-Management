@@ -3,8 +3,9 @@ Database management course
 
 ## Learned:
 
-Design a relational database schema implementing a data model, including tables, indexes, and constraints; analyze functional dependencies and normalize
-a relational database schema.
+Design a relational database schema implementing a data model, including tables, indexes, and constraints
+
+Analyze functional dependencies and normalize a relational database schema.
 
 Understand and explain basic relational algebra operations and manipulations.
 
